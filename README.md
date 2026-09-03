@@ -20,7 +20,7 @@ The system reminds the user to drink water at configurable time intervals, track
 
 ## Hardware Used
 
-- LPC2148 Microcontroller
+- ARM7 TDMI LPC2148 Microcontroller development board 
 - 16x2 LCD
 - 4x4 Matrix Keypad
 - LEDs
