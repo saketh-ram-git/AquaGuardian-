@@ -80,7 +80,7 @@ The main controller of the system is the **ARM7/LPC21xx microcontroller**.
 
 The following block diagram represents the overall hardware architecture of AquaGuardian.
 
-![AquaGuardian Block Diagram](Images/Block_diagram.jpg)
+<img width="1536" height="1024" alt="ChatGPT Image Sep 21, 2026, 12_17_11 PM" src="https://github.com/user-attachments/assets/cef6505d-5e2c-4b0a-87b3-5ed4dff53f1c" />
 
 ---
 
@@ -174,7 +174,7 @@ The LCD is used to present both real-time information and water-drinking statist
 
 The workflow below represents the software execution and decision flow of AquaGuardian.
 
-![AquaGuardian Working Workflow](Images/Working_workflow.jpg)
+<img width="1205" height="1305" alt="ChatGPT Image Sep 21, 2026, 12_19_07 PM" src="https://github.com/user-attachments/assets/64f42997-13d4-4cea-acc8-ed8c0a6a27bc" />
 
 ---
 
